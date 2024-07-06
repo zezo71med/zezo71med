@@ -4,7 +4,7 @@ Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zezo71med&label=Profile%20views&color=0e75b6&style=flat" alt="Ziyad hamed profile page" /> </p>
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **Data Structures**
 
 - 💬 Ask me about **Front End Developer and related technologies**
 
