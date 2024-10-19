@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziyad Hamed</h1>
-<h3 align="center">Passionate Front End Developer with expertise in front-end technologies like HTML, CSS,JavaScript ,TypeScript and Angular +2.
+<h3 align="center">Passionate Front-End Developer with expertise in front-end technologies like HTML, CSS, JavaScript, TypeScript, Angular+ 2.
 Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zezo71med&label=Profile%20views&color=0e75b6&style=flat" alt="Ziyad hamed profile page" /> </p>
